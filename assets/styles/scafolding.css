@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .wrapper {
+    width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  body{
+    margin: 0;
+    font-family: 'Gilroy', sans-serif;
+  }
+  
+  p,h1,h2,h3,ul,li{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .hide {
+    display: none;
+  }
+
+  .main {
+    background-color: #F9F9F9;
+    padding-top: 75px;
+    padding-bottom: 100px;
+  }
